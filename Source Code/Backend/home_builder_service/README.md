@@ -1,4 +1,4 @@
-# Home Builder Service
+# Six Star Services
 
 This is the Java backend for the project, apis are exposed to get the data.
 
